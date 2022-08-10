@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align='right' src="https://media.giphy.com/media/12PXNbcHW8C9Bm/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/26DN2hUeMwRd2P1o4/giphy.gif" width="230">
 
 ### About Me
 I am a Computer Science student.
