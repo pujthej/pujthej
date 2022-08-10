@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 <img align='right' src="https://media.giphy.com/media/26DN2hUeMwRd2P1o4/giphy.gif" width="230">
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> About Me
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 I am a Computer Science student.
