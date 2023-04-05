@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
-I am a final year Computer Science and Engineering student.
+I am a currently pursuing my bachelors in Computer Science.
