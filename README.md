@@ -1,4 +1,4 @@
-### Hi there 👋, I am Pujitha!
+### Hey👋, I am Pujitha!
 <img align='right' src="https://media.giphy.com/media/26DN2hUeMwRd2P1o4/giphy.gif" width="230">
 
 <!--
