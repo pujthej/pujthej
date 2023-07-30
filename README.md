@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
-I am a currently pursuing my bachelors in Computer Science.
+I am a currently pursuing my MS in Computer Science at the University of Massachusetts Amherst.
